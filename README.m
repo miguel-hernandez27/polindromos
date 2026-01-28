@@ -1,5 +1,5 @@
-# polindromos
-maquina de leer polindromos 
+
+
 def polidromos (textos):
      textos = textos.lower().replace(" ", "")
      i = 0 
